@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0.00" file="fragments_0000.vtk"/>
+    <DataSet timestep="35.71" file="fragments_0001.vtk"/>
+    <DataSet timestep="71.43" file="fragments_0002.vtk"/>
+    <DataSet timestep="107.14" file="fragments_0003.vtk"/>
+    <DataSet timestep="142.86" file="fragments_0004.vtk"/>
+    <DataSet timestep="178.57" file="fragments_0005.vtk"/>
+    <DataSet timestep="214.29" file="fragments_0006.vtk"/>
+    <DataSet timestep="250.00" file="fragments_0007.vtk"/>
+    <DataSet timestep="285.71" file="fragments_0008.vtk"/>
+    <DataSet timestep="321.43" file="fragments_0009.vtk"/>
+    <DataSet timestep="357.14" file="fragments_0010.vtk"/>
+    <DataSet timestep="392.86" file="fragments_0011.vtk"/>
+    <DataSet timestep="428.57" file="fragments_0012.vtk"/>
+    <DataSet timestep="464.29" file="fragments_0013.vtk"/>
+    <DataSet timestep="500.00" file="fragments_0014.vtk"/>
+  </Collection>
+</VTKFile>
