@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0.00" file="blade_impact_0000.vtk"/>
+    <DataSet timestep="35.71" file="blade_impact_0001.vtk"/>
+    <DataSet timestep="71.43" file="blade_impact_0002.vtk"/>
+    <DataSet timestep="107.14" file="blade_impact_0003.vtk"/>
+    <DataSet timestep="142.86" file="blade_impact_0004.vtk"/>
+    <DataSet timestep="178.57" file="blade_impact_0005.vtk"/>
+    <DataSet timestep="214.29" file="blade_impact_0006.vtk"/>
+    <DataSet timestep="250.00" file="blade_impact_0007.vtk"/>
+    <DataSet timestep="285.71" file="blade_impact_0008.vtk"/>
+    <DataSet timestep="321.43" file="blade_impact_0009.vtk"/>
+    <DataSet timestep="357.14" file="blade_impact_0010.vtk"/>
+    <DataSet timestep="392.86" file="blade_impact_0011.vtk"/>
+    <DataSet timestep="428.57" file="blade_impact_0012.vtk"/>
+    <DataSet timestep="464.29" file="blade_impact_0013.vtk"/>
+    <DataSet timestep="500.00" file="blade_impact_0014.vtk"/>
+  </Collection>
+</VTKFile>
